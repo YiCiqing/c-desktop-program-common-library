@@ -22,12 +22,12 @@
 
 ## BF_Window.hpp
 
-## ![](C:\Users\Administrator\Desktop\a\pic\BF_Window.png)
+## ![](pic\BF_Window.png)
 
 ## BF_Mouse.hpp
 
-## ![](C:\Users\Administrator\Desktop\a\pic\BF_Mouse.png)
+## ![](pic\BF_Mouse.png)
 
 ## BF_Thread.hpp
 
-## ![](C:\Users\Administrator\Desktop\a\pic\BF_Thread.png)
+## ![](pic\BF_Thread.png)
