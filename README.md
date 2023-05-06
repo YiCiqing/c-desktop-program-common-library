@@ -22,7 +22,7 @@
 
 ## BF_Window.hpp
 
-## ![](pic\BF_Window.png)
+## ![]([pic\BF_Window.png](https://github.com/YiCiqing/C-/blob/main/pic/BF_Mouse.png))
 
 ## BF_Mouse.hpp
 
