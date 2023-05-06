@@ -22,12 +22,12 @@
 
 ## BF_Window.hpp
 
-## ![image](https://github.com/YiCiqing/C-/blob/main/pic/BF_Mouse.png)
+## ![image](https://github.com/YiCiqing/C-/blob/main/pic/BF_Window.png)
 
 ## BF_Mouse.hpp
 
-## ![]
+## ![image](https://github.com/YiCiqing/C-/blob/main/pic/BF_Mouse.png)
 
 ## BF_Thread.hpp
 
-## ![](pic\BF_Thread.png)
+## ![image](https://github.com/YiCiqing/C-/blob/main/pic/BF_Thread.png)
