@@ -20,23 +20,23 @@
 
 # 函数
 
-## BF_Window.hpp
+## BF_Window.hpp    窗口类
 
 ## ![image](https://github.com/YiCiqing/C-/blob/main/pic/BF_Window.png)
 
-## BF_Mouse.hpp
+## BF_Mouse.hpp     鼠标脚本类
 
 ## ![image](https://github.com/YiCiqing/C-/blob/main/pic/BF_Mouse.png)
 
-## BF_Thread.hpp
+## BF_Thread.hpp    线程类
 
 ## ![image](https://github.com/YiCiqing/C-/blob/main/pic/BF_Thread.png)
 
-## BF_String.hpp
+## BF_String.hpp    文本类
 
 ## ![image](https://github.com/YiCiqing/c-desktop-program-common-library/blob/main/pic/BF_String.png)
 
-## BF_System.hpp
+## BF_System.hpp    系统类
 
 ## ![image](https://github.com/YiCiqing/c-desktop-program-common-library/blob/main/pic/BF_System.png)
 
