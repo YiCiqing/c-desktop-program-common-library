@@ -40,4 +40,7 @@
 
 ## ![image](https://github.com/YiCiqing/c-desktop-program-common-library/blob/main/pic/BF_System.png)
 
+## BF_System.hpp    键盘脚本类
+
+## ![image](https://github.com/YiCiqing/c-desktop-program-common-library/blob/main/pic/BF_Keyboard.png)
 
