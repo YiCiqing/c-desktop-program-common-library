@@ -44,3 +44,8 @@
 
 ## ![image](https://github.com/YiCiqing/c-desktop-program-common-library/blob/main/pic/BF_Keyboard.png)
 
+
+## BF_System.hpp    绘制类
+
+## ![image](https://github.com/YiCiqing/c-desktop-program-common-library/blob/main/pic/ImGui.png)
+通过dll实现的，和项目文件放在一起就可以了。
